@@ -3,6 +3,7 @@
 ### Requirements (besides Neovim ofc.)
 - [Nerd Font](https://github.com/ryanoasis/nerd-fonts) - f.e. HackNerdFont-Regular
 - ripgrep - for telescope fuzzy finder (sudo apt-get install ripgrep)
+- create a directory ~/.config/nvim and put all the configuration from the repository there
 
 
 
